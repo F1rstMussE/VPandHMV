@@ -1,0 +1,84 @@
+xml version=1.0 encoding=UTF-8
+ui version=4.0
+ classauthclass
+ widget class=QDialog name=auth
+  property name=windowModality
+   enumQtNonModalenum
+  property
+  property name=geometry
+   rect
+    x0x
+    y0y
+    width400width
+    height300height
+   rect
+  property
+  property name=minimumSize
+   size
+    width400width
+    height300height
+   size
+  property
+  property name=maximumSize
+   size
+    width400width
+    height300height
+   size
+  property
+  property name=windowTitle
+   stringАвторыstring
+  property
+  widget class=QLabel name=label
+   property name=geometry
+    rect
+     x-460x
+     y0y
+     width1391width
+     height331height
+    rect
+   property
+   property name=text
+    string
+   property
+   property name=pixmap
+    pixmap..background.jpgpixmap
+   property
+  widget
+  widget class=QTextEdit name=textEdit
+   property name=geometry
+    rect
+     x30x
+     y40y
+     width331width
+     height211height
+    rect
+   property
+   property name=frameShape
+    enumQFrameNoFrameenum
+   property
+   property name=readOnly
+    booltruebool
+   property
+   property name=html
+    string&lt;!DOCTYPE HTML PUBLIC &quot;-W3CDTD HTML 4.0EN&quot; &quot;httpwww.w3.orgTRREC-html40strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; &gt;&lt;style type=&quot;textcss&quot;&gt;
+p, li { white-space pre-wrap; }
+&lt;style&gt;&lt;head&gt;&lt;body style=&quot; font-family'MS Shell Dlg 2'; font-size7.8pt; font-weight400; font-stylenormal;&quot;&gt;
+&lt;p style=&quot; margin-top0px; margin-bottom0px; margin-left0px; margin-right0px; -qt-block-indent0; text-indent0px;&quot;&gt;&lt;span style=&quot; font-size12pt; color#000000;&quot;&gt;ФИО     Мироненко К. А.&lt;span&gt;&lt;p&gt;
+&lt;p style=&quot; margin-top0px; margin-bottom0px; margin-left0px; margin-right0px; -qt-block-indent0; text-indent0px;&quot;&gt;&lt;span style=&quot; font-size12pt; color#000000;&quot;&gt;Группа	ИП-811&lt;span&gt;&lt;p&gt;
+&lt;p style=&quot;-qt-paragraph-typeempty; margin-top0px; margin-bottom0px; margin-left0px; margin-right0px; -qt-block-indent0; text-indent0px; font-size12pt; color#000000;&quot;&gt;&lt;br &gt;&lt;p&gt;
+&lt;p style=&quot;-qt-paragraph-typeempty; margin-top0px; margin-bottom0px; margin-left0px; margin-right0px; -qt-block-indent0; text-indent0px; font-size12pt; color#000000;&quot;&gt;&lt;br &gt;&lt;p&gt;
+&lt;p style=&quot;-qt-paragraph-typeempty; margin-top0px; margin-bottom0px; margin-left0px; margin-right0px; -qt-block-indent0; text-indent0px; font-size12pt; color#000000;&quot;&gt;&lt;br &gt;&lt;p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top0px; margin-bottom0px; margin-left0px; margin-right0px; -qt-block-indent0; text-indent0px;&quot;&gt;&lt;span style=&quot; font-size12pt; color#000000;&quot;&gt;Визуальное программирование 2020-2021 уч. год&lt;span&gt;&lt;p&gt;&lt;body&gt;&lt;html&gt;string
+   property
+   property name=overwriteMode
+    boolfalsebool
+   property
+   property name=acceptRichText
+    boolfalsebool
+   property
+  widget
+ widget
+ resources
+ connections
+ui
